@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TarjetaPresentacionEjercicio4</string>
+    <string name="nombre_apellido">Miguel Aponte</string>
+    <string name="empresa">UAA</string>
+    <string name="telefono">123456789</string>
+    <string name="email">miguelaponteav@gmail.com</string>
+    <string name="compartir"> miguelaponte </string>
+</resources>
